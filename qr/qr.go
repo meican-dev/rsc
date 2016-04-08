@@ -12,7 +12,7 @@ import (
 	"image"
 	"image/color"
 
-	"code.google.com/p/rsc/qr/coding"
+	"github.com/meican-dev/rsc/qr/coding"
 )
 
 // A Level denotes a QR error correction level.
@@ -27,7 +27,7 @@ const (
 )
 
 // Encode returns an encoding of text at the given error correction level.
-func Encode(text string, level Level) (*Code, error) {
+func Encode(text string, level Level, scale int) (*Code, error) {
 	// Pick data encoding, smallest first.
 	// We could split the string and use different encodings
 	// but that seems like overkill for now.
@@ -65,7 +65,7 @@ func Encode(text string, level Level) (*Code, error) {
 
 	// TODO: Pick appropriate mask.
 
-	return &Code{cc.Bitmap, cc.Size, cc.Stride, 8}, nil
+	return &Code{cc.Bitmap, cc.Size, cc.Stride, scale}, nil
 }
 
 // A Code is a square pixel grid.
