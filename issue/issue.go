@@ -83,7 +83,7 @@ var xmlDebug = false
 // Search queries for issues on the tracker for the given project (for example, "go").
 // The can string is typically "open" (search only open issues) or "all" (search all issues).
 // The format of the can string and the query are documented at
-// https://code.google.com/p/support/wiki/IssueTrackerAPI.
+// https://github.com/meican-dev/support/wiki/IssueTrackerAPI.
 func Search(project, can, query string, detail bool, client *http.Client) ([]*Issue, error) {
 	if client == nil {
 		client = http.DefaultClient

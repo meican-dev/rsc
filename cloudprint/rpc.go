@@ -17,7 +17,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"code.google.com/p/goauth2/oauth"
+	"github.com/meican-dev/goauth2/oauth"
 )
 
 const cloudprintURL = "https://www.google.com/cloudprint"

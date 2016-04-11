@@ -1,7 +1,7 @@
 package amd64
 
 // Inferno utils/6l/span.c
-// http://code.google.com/p/inferno-os/source/browse/utils/6l/span.c
+// http://github.com/meican-dev/inferno-os/source/browse/utils/6l/span.c
 //
 //	Copyright © 1994-1999 Lucent Technologies Inc.  All rights reserved.
 //	Portions Copyright © 1995-1997 C H Forsyth (forsyth@terzarima.net)
@@ -31,7 +31,7 @@ package amd64
 // THE SOFTWARE.
 // Instruction layout.
 // Inferno utils/6c/6.out.h
-// http://code.google.com/p/inferno-os/source/browse/utils/6c/6.out.h
+// http://github.com/meican-dev/inferno-os/source/browse/utils/6c/6.out.h
 //
 //	Copyright © 1994-1999 Lucent Technologies Inc.  All rights reserved.
 //	Portions Copyright © 1995-1997 C H Forsyth (forsyth@terzarima.net)

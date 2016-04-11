@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"syscall"
 
-	"code.google.com/p/goplan9/plan9/acme"
+	"github.com/meican-dev/goplan9/plan9/acme"
 )
 
 var _ = fmt.Printf

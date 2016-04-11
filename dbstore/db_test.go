@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	_ "code.google.com/p/gosqlite/sqlite3"
+	_ "github.com/meican-dev/gosqlite/sqlite3"
 )
 
 type Data1 struct {

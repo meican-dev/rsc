@@ -20,10 +20,10 @@ import (
 	"sync"
 	"runtime"
 
-	"code.google.com/p/rsc/appfs/client"
-	"code.google.com/p/rsc/appfs/proto"
-	"code.google.com/p/rsc/fuse"
-	"code.google.com/p/rsc/keychain"
+	"github.com/meican-dev/rsc/appfs/client"
+	"github.com/meican-dev/rsc/appfs/proto"
+	"github.com/meican-dev/rsc/fuse"
+	"github.com/meican-dev/rsc/keychain"
 )
 
 var usageMessage = `usage: appmount [-h host] [-u user] [-p password] /mnt

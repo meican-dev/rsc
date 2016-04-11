@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// Copied from code.google.com/p/codesearch/regexp/copy.go.
+// Copied from github.com/meican-dev/codesearch/regexp/copy.go.
 
 // Copied from Go's regexp/syntax.
 // Formatters edited to handle instByteRange.

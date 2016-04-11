@@ -24,7 +24,7 @@ import (
 	"os"
 	"time"
 
-	"code.google.com/p/rsc/appfs/proto"
+	"github.com/meican-dev/rsc/appfs/proto"
 )
 
 type AppEngine interface {

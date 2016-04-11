@@ -1,7 +1,7 @@
 package x86
 
 // Inferno utils/8l/span.c
-// http://code.google.com/p/inferno-os/source/browse/utils/8l/span.c
+// http://github.com/meican-dev/inferno-os/source/browse/utils/8l/span.c
 //
 //	Copyright © 1994-1999 Lucent Technologies Inc.  All rights reserved.
 //	Portions Copyright © 1995-1997 C H Forsyth (forsyth@terzarima.net)
@@ -31,7 +31,7 @@ package x86
 // THE SOFTWARE.
 // Instruction layout.
 // Inferno utils/8c/8.out.h
-// http://code.google.com/p/inferno-os/source/browse/utils/8c/8.out.h
+// http://github.com/meican-dev/inferno-os/source/browse/utils/8c/8.out.h
 //
 //	Copyright © 1994-1999 Lucent Technologies Inc.  All rights reserved.
 //	Portions Copyright © 1995-1997 C H Forsyth (forsyth@terzarima.net)

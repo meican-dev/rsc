@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// Copied from code.google.com/p/codesearch/regexp/copy.go
+// Copied from github.com/meican-dev/codesearch/regexp/copy.go
 // and adapted for the problem of finding a matching string, not
 // testing whether a particular string matches.
 

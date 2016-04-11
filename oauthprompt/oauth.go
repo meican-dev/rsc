@@ -16,7 +16,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"code.google.com/p/goauth2/oauth"
+	"github.com/meican-dev/goauth2/oauth"
 )
 
 // Token obtains an OAuth token, keeping a cached copy in file.

@@ -6,10 +6,10 @@
 // It can be used with the ChromeDriver server and perhaps with the Selenium server.
 //
 // This package implements the wire protocol described at
-// http://code.google.com/p/selenium/wiki/JsonWireProtocol.
+// http://github.com/meican-dev/selenium/wiki/JsonWireProtocol.
 //
-// For Selenium, see http://code.google.com/p/selenium/.
-// For ChromeDriver, see http://code.google.com/p/chromedriver/.
+// For Selenium, see http://github.com/meican-dev/selenium/.
+// For ChromeDriver, see http://github.com/meican-dev/chromedriver/.
 //
 // There is an ongoing W3C standardization effort for WebDriver at
 // https://dvcs.w3.org/hg/webdriver/raw-file/tip/webdriver-spec.html.

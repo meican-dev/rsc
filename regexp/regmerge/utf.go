@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// Copy of code.google.com/p/codesearch/regexp/utf.go.
+// Copy of github.com/meican-dev/codesearch/regexp/utf.go.
 
 package main
 

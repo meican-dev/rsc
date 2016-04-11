@@ -14,7 +14,7 @@
 //
 // It then uploads each of the named projects, which should already be checked
 // out into subdirectories of rootdir (default $HOME/googlecode.upload) named
-// for the projects. For example, code.google.com/p/re2 should be checked out
+// for the projects. For example, github.com/meican-dev/re2 should be checked out
 // into rootdir/re2.
 //
 // If no projects are given on the command line, uploadbot behaves as if all the
@@ -41,7 +41,7 @@
 // To add a project, first check out the repository in the work directory:
 //
 //	cd $HOME/googlecode.upload
-//	hg clone https://code.google.com/p/yourproject
+//	hg clone https://github.com/meican-dev/yourproject
 //
 // Then force the initial upload:
 //

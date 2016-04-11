@@ -6,11 +6,11 @@ import (
 	"log"
 	"math"
 
-	"code.google.com/p/rsc/c2go/liblink"
+	"github.com/meican-dev/rsc/c2go/liblink"
 )
 
 // Inferno utils/6l/pass.c
-// http://code.google.com/p/inferno-os/source/browse/utils/6l/pass.c
+// http://github.com/meican-dev/inferno-os/source/browse/utils/6l/pass.c
 //
 //	Copyright © 1994-1999 Lucent Technologies Inc.  All rights reserved.
 //	Portions Copyright © 1995-1997 C H Forsyth (forsyth@terzarima.net)

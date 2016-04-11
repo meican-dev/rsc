@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"code.google.com/p/goprotobuf/proto"
-	"code.google.com/p/rsc/gtfs"
+	"github.com/meican-dev/goprotobuf/proto"
+	"github.com/meican-dev/rsc/gtfs"
 )
 
 func main() {

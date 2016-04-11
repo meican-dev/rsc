@@ -16,9 +16,9 @@ import (
 	"sync"
 	"time"
 
-	"code.google.com/p/goplan9/draw"
-	"code.google.com/p/goplan9/plan9/acme"
-	"code.google.com/p/rsc/issue"
+	"github.com/meican-dev/goplan9/draw"
+	"github.com/meican-dev/goplan9/plan9/acme"
+	"github.com/meican-dev/rsc/issue"
 )
 
 func acmeMode() {

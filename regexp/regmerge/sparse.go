@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// Copied from code.google.com/p/codesearch/sparse/set.go,
+// Copied from github.com/meican-dev/codesearch/sparse/set.go,
 // tweaked for better inlinability.
 
 package main
